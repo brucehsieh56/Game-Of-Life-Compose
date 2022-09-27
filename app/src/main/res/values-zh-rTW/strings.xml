@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">生命遊戲 - Compose</string>
+    <string name="app_name_short">生命遊戲</string>
+    <string name="bottom_app_bar_empty_grid">清除方格</string>
+    <string name="bottom_app_bar_next">演變下一代</string>
+    <string name="bottom_app_bar_refresh_grid">刷新方格</string>
+    <string name="bottom_app_bar_start">開始</string>
+    <string name="bottom_app_bar_settings">前往設定</string>
+    <string name="game_rule_dialog_confirm">離開</string>
+    <string name="game_rule_dialog_explain_1">一個細胞最多8個鄰居</string>
+    <string name="game_rule_dialog_explain_2">一個存活細胞的周圍有2至3個存活細胞，該存活細胞保持存活</string>
+    <string name="game_rule_dialog_explain_3">一個死亡細胞的周圍有3個存活細胞，該死亡細胞轉變成存活</string>
+    <string name="game_rule_dialog_explain_4">其它條件下，細胞將轉變成死亡狀態</string>
+    <string name="game_rule_dialog_title">遊戲規則</string>
+    <string name="game_speed_fast">稍快</string>
+    <string name="game_speed_medium">正常</string>
+    <string name="game_speed_slow">稍慢</string>
+    <string name="grid_size_xsmall">稍小</string>
+    <string name="grid_size_small">小</string>
+    <string name="grid_size_medium">中等</string>
+    <string name="grid_size_large">大</string>
+    <string name="grid_size_xlarge">稍大</string>
+    <string name="grid_size_x2large">很大</string>
+    <string name="grid_size_x3large">再大</string>
+    <string name="grid_size_x4large">更大</string>
+    <string name="grid_size_x5large">最大</string>
+    <string name="grid_theme_gray">灰</string>
+    <string name="grid_theme_original">原始</string>
+    <string name="grid_theme_sleepy">懶洋洋</string>
+    <string name="grid_theme_terminal">終端機</string>
+    <string name="grid_theme_vivid">鮮明</string>
+    <string name="settings_screen_app_version">應用程式版本</string>
+    <string name="settings_screen_game_rule">遊戲規則</string>
+    <string name="settings_screen_game_speed">遊戲速度</string>
+    <string name="settings_screen_grid_size">方格大小</string>
+    <string name="settings_screen_grid_theme">方格顏色</string>
+    <string name="settings_screen_privacy_policy">隱私政策</string>
+    <string name="settings_screen_rate_this_app">評分應用程式</string>
+    <string name="settings_screen_send_feedback">意見回饋</string>
+    <string name="settings_screen_share_this_app">分享應用程式</string>
+    <string name="settings_screen_terms_and_conditions">服務條款</string>
+    <string name="top_app_bar_back">上一頁</string>
+    <string name="top_app_bar_title_settings">設定</string>
+</resources>
